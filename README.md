@@ -1,5 +1,5 @@
 # Integracion PowerBI a JupyterNotebook 
-Embeber reportes e informes desarrollados en Power BI en Jupyter Notebook
+![](https://github.com/valecardozo/IntegracionPowerBI_JupyterNotebook/blob/main/Python_PowerBI.png)
 
 ## Objetivo
 Aprender a integrar reportes e informes desarrollados en Power BI a un Jupyter Notebook, accediendo a visualizaciones totalmente interactivas para el usuario.
